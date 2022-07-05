@@ -2,7 +2,7 @@
 
 My name is Juan Morais, and I'm a Software Engineer based in Wellington, New Zealand. I was born and raised in Herrera, Panamá, and Spanish is my native language. I moved to New Zealand in 2015, and still reside here.
 
-My path to programming was not conventional. I learned how to create games before learning how to make web apps. For that reason, I'm an experienced game developer who re-trained/gained knowledge in full stack web development.
+I learned how to create games before I knew how to make web apps. I'm an experienced game developer who re-trained/gained knowledge in full stack web development. If you ask me what I prefer, I really can't say—Both are equally awesome in different ways!
 
 ### 🌱 Favourite technologies:
 
@@ -43,20 +43,6 @@ My path to programming was not conventional. I learned how to create games befor
 
 ### 😄 Fun facts
 
-- Very keen mountain biking
+- Very keen mountain biker
+- I love learning about different cultures and our commonalities
 - I can guess where many hispanic accents are from
-
-<!--
-**timrodz/timrodz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
