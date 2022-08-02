@@ -4,14 +4,14 @@ My name is Juan Morais, and I'm a Software Engineer based in Wellington, New Zea
 
 I learned how to create games before I knew how to make web apps. I'm an experienced game developer who re-trained/gained knowledge in full stack web development. If you ask me what I prefer, I really can't say—Both are equally awesome in different ways!
 
-### 🌱 Favourite technologies:
+### 🌱 Favourite technologies
 
 - Python / Flask, Pandas
 - C# / Unity, .NET
 - TypeScript / React, three.js
 - C++ / Unreal Engine
 
-### 🌳 Things I've built / worked on:
+### 🌳 Things I've built / worked on
 
 - [Clusterduck (Game / iOS, Android)](https://pikpok.com/games/clusterduck/)
 - [I Am Monster (Game / iOS, Android)](https://pikpok.com/games/i-am-monster/)
