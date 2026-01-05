@@ -2,13 +2,13 @@
 
 I'm Juan, a Software Engineer based in Auckland, New Zealand. I have 7+ years of experience (freelance, startups, remote). I love tinkering with new technologies as well as doing lots of exercise (gym, bouldering, cycling, running).
 
+Note: I've been working over at The Boundary with an alternative account: [timrodz-tb](https://github.com/timrodz-tb)
+
 **Get in touch 📩**
 
 - LinkedIn: https://www.linkedin.com/in/timrodz
 - Portfolio: https://www.timrodz.dev
 - Blog: https://blog.timrodz.dev
-
-FYI: I've been using my work account for the past 6 months -> [timrodz-tb](https://github.com/timrodz-tb)
 
 ## My work 💼
 
