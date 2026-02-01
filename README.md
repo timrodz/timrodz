@@ -1,10 +1,13 @@
 # Welcome 👋
 
-I'm Juan, a Software Engineer based in Auckland, New Zealand. I have 7+ years of experience (freelance, startups, remote). I love tinkering with new technologies as well as doing lots of exercise (gym, bouldering, cycling, running).
+I'm based in Auckland, New Zealand. I love tinkering with new technologies as well as doing lots of exercise (gym, bouldering, cycling, running).
+
+Currently building:
+
+- [Oink](https://github.com/timrodz/oink) - Personal finance tracker
+- [Tie Breaker](https://gettiebreaker.com/) - Trading card game tournament organizer
 
 Note: I've been working over at The Boundary with an alternative account: [timrodz-tb](https://github.com/timrodz-tb)
-
-**Get in touch 📩**
 
 - LinkedIn: https://www.linkedin.com/in/timrodz
 - Portfolio: https://www.timrodz.dev
